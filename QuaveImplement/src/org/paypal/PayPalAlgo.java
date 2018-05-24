@@ -10,6 +10,6 @@ package org.paypal;
 public class PayPalAlgo {
 
 	public static void main(String[] args) {
-		System.out.println("Anil Kumar" +545); 
+		System.out.println("Anil Kumar"); 
 	}
 }
