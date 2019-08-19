@@ -1,6 +1,147 @@
-{
-   "data":[
-      {
+{  
+   "data":[  
+      {  
+         "id":"456312a9-be80-45bf-9d7b-b8e36bfd3a1f",
+         "storageId":"456312a9-be80-45bf-9d7b-b8e36bfd3a1f",
+         "channelId":"5947c2b0-227e-42e9-8285-ebfb302acdba",
+         "videoNumber":"0a174ade-75d8-4b39-a9c4-7a6cbc925a65",
+         "revisionNumber":"001",
+         "title":"video 4",
+         "author":"video.admin@dev.mavenwave.com",
+         "authorName":"video admin",
+         "description":"\u003cp\u003edecsription trste \u003c/p\u003e",
+         "changeSummary":"",
+         "createdDate":1566217013601,
+         "featured":false,
+         "requestFeatured":false,
+         "active":true,
+         "poster":{  
+            "lastModified":0,
+            "size":0,
+            "url":"/gs/reveal-video-dev-dev-mavenwave-com-webassets/videos/encoded/a0213036-516a-4e1c-8a28-533077d1e0c0_/thumbnail-0_0.png_serve",
+            "servingUrl":"https://lh3.googleusercontent.com/iXDZ6GeIsMKMb5cccTorvd00uCUh9fL9_NbjJZS0c_hMbo20lp7Ftn2a4Dg3Qp9wzvY_KGlfpfdjw0Z5LohkTkJT1prm\u003ds300"
+         },
+         "metaData":[  
+
+         ],
+         "channel":{  
+            "channelId":"5947c2b0-227e-42e9-8285-ebfb302acdba",
+            "storageId":"5947c2b0-227e-42e9-8285-ebfb302acdba",
+            "channelName":"New Embeded Channel",
+            "description":"video s uv",
+            "includeWatermark":false,
+            "commentsAllowed":true,
+            "createdDate":1565772211229,
+            "active":true,
+            "stateMachine":{  
+               "raw":{  
+                  "kind":"StateMachine",
+                  "id":1
+               }
+            }
+         },
+         "viewCount":1,
+         "likeCount":0,
+         "channelName":"New Embeded Channel",
+         "playbackSources":[  
+
+         ]
+      },
+      {  
+         "id":"1ccdc2b8-748b-472c-b287-afcd0cd74df2",
+         "storageId":"1ccdc2b8-748b-472c-b287-afcd0cd74df2",
+         "channelId":"5947c2b0-227e-42e9-8285-ebfb302acdba",
+         "videoNumber":"f11a9c40-3018-4f0f-8ce6-4a0c30288afa",
+         "revisionNumber":"001",
+         "title":"video 2",
+         "author":"video.admin@dev.mavenwave.com",
+         "authorName":"video admin",
+         "description":"\u003cp\u003edescription test\u003c/p\u003e",
+         "changeSummary":"",
+         "createdDate":1566216996922,
+         "featured":false,
+         "requestFeatured":false,
+         "active":true,
+         "poster":{  
+            "lastModified":0,
+            "size":0,
+            "url":"/gs/reveal-video-dev-dev-mavenwave-com-webassets/poster/1ccdc2b8-748b-472c-b287-afcd0cd74df2_1566216985593.jpeg",
+            "servingUrl":"https://lh3.googleusercontent.com/F3QBcB960mDM_SNclH7in3Vuid4IItx3N0SodcDyVG9fEolyg8PNiArEHJZhOyhGjHxUc7IgcA5q_nh3sv7JR6ShB50l\u003ds300"
+         },
+         "metaData":[  
+
+         ],
+         "channel":{  
+            "channelId":"5947c2b0-227e-42e9-8285-ebfb302acdba",
+            "storageId":"5947c2b0-227e-42e9-8285-ebfb302acdba",
+            "channelName":"New Embeded Channel",
+            "description":"video s uv",
+            "includeWatermark":false,
+            "commentsAllowed":true,
+            "createdDate":1565772211229,
+            "active":true,
+            "stateMachine":{  
+               "raw":{  
+                  "kind":"StateMachine",
+                  "id":1
+               }
+            }
+         },
+         "viewCount":0,
+         "likeCount":0,
+         "channelName":"New Embeded Channel",
+         "playbackSources":[  
+
+         ]
+      },
+      {  
+         "id":"617291e4-8fae-43cf-ab5b-6d3849323944",
+         "storageId":"617291e4-8fae-43cf-ab5b-6d3849323944",
+         "channelId":"5947c2b0-227e-42e9-8285-ebfb302acdba",
+         "videoNumber":"5ff0f50c-6232-40fd-a5b6-92a6d36261a1",
+         "revisionNumber":"001",
+         "title":"video 1",
+         "author":"video.admin@dev.mavenwave.com",
+         "authorName":"video admin",
+         "description":"\u003cp\u003evideo 1 description \u003c/p\u003e",
+         "changeSummary":"",
+         "createdDate":1566216907494,
+         "featured":false,
+         "requestFeatured":false,
+         "active":true,
+         "poster":{  
+            "lastModified":0,
+            "size":0,
+            "url":"/gs/reveal-video-dev-dev-mavenwave-com-webassets/videos/encoded/f78e3288-d5bb-411e-855a-838a6e13cd20_/thumbnail-0_0.png_serve",
+            "servingUrl":"https://lh3.googleusercontent.com/H8_xOSGTmsgQ_ZEPYfHNzIR4pGy2vimvdgVL6Alfp3LpDM_BUKdMVEQSZyyTiyeDGDO5SHSOlERxXUwZq7EIxVT8NnJ0PUo\u003ds300"
+         },
+         "metaData":[  
+
+         ],
+         "channel":{  
+            "channelId":"5947c2b0-227e-42e9-8285-ebfb302acdba",
+            "storageId":"5947c2b0-227e-42e9-8285-ebfb302acdba",
+            "channelName":"New Embeded Channel",
+            "description":"video s uv",
+            "includeWatermark":false,
+            "commentsAllowed":true,
+            "createdDate":1565772211229,
+            "active":true,
+            "stateMachine":{  
+               "raw":{  
+                  "kind":"StateMachine",
+                  "id":1
+               }
+            }
+         },
+         "viewCount":0,
+         "likeCount":0,
+         "channelName":"New Embeded Channel",
+         "playbackSources":[  
+
+         ]
+      },
+      {  
          "id":"4e01ac8b-dadc-4a8b-9a48-09bb9a4729c4",
          "storageId":"4e01ac8b-dadc-4a8b-9a48-09bb9a4729c4",
          "channelId":"5947c2b0-227e-42e9-8285-ebfb302acdba",
@@ -15,32 +156,39 @@
          "featured":false,
          "requestFeatured":false,
          "active":true,
-         "metaData":[
+         "poster":{  
+            "lastModified":0,
+            "size":0,
+            "url":"/gs/reveal-video-dev-dev-mavenwave-com-webassets/videos/encoded/99a77c03-87d1-4845-a9b4-f7d69e88f847_/thumbnail-0_0.png_serve",
+            "servingUrl":"https://lh3.googleusercontent.com/WC7tji1hw0FLc3N5bmu-_i1UlShCmY-uD8H13ZAm8vd1pc7S6BdLlVXoPAU_zmasr2_Pg2L2UZMZ7a6pyeY_I4H8kKHjAQ\u003ds300"
+         },
+         "metaData":[  
 
          ],
-         "channel":{
+         "channel":{  
             "channelId":"5947c2b0-227e-42e9-8285-ebfb302acdba",
-            "channelName":"EmbededChannel",
-            "description":"video s",
+            "storageId":"5947c2b0-227e-42e9-8285-ebfb302acdba",
+            "channelName":"New Embeded Channel",
+            "description":"video s uv",
             "includeWatermark":false,
             "commentsAllowed":true,
             "createdDate":1565772211229,
             "active":true,
-            "stateMachine":{
-               "raw":{
+            "stateMachine":{  
+               "raw":{  
                   "kind":"StateMachine",
                   "id":1
                }
             }
          },
-         "viewCount":0,
+         "viewCount":8,
          "likeCount":0,
          "channelName":"EmbededChannel",
-         "playbackSources":[
+         "playbackSources":[  
 
          ]
       },
-      {
+      {  
          "id":"24d3df5b-3b14-4be3-8e8e-d931c1ed0ae4",
          "storageId":"24d3df5b-3b14-4be3-8e8e-d931c1ed0ae4",
          "channelId":"5947c2b0-227e-42e9-8285-ebfb302acdba",
@@ -55,32 +203,39 @@
          "featured":false,
          "requestFeatured":false,
          "active":true,
-         "metaData":[
+         "poster":{  
+            "lastModified":0,
+            "size":0,
+            "url":"/gs/reveal-video-dev-dev-mavenwave-com-webassets/videos/encoded/ee85a1b6-da92-4169-888f-65d4d3be000a_/thumbnail-0_0.png_serve",
+            "servingUrl":"https://lh3.googleusercontent.com/S5-UVJ65OBb7mAuwjQ3c_d3Tbo-qApO2y5LAGybeYYFIGlzV2xdKUPbRBAgTnX-N_V4ZaT_57ssGWPg0Btvh0zoMyMRVQiA\u003ds300"
+         },
+         "metaData":[  
 
          ],
-         "channel":{
+         "channel":{  
             "channelId":"5947c2b0-227e-42e9-8285-ebfb302acdba",
-            "channelName":"EmbededChannel",
-            "description":"video s",
+            "storageId":"5947c2b0-227e-42e9-8285-ebfb302acdba",
+            "channelName":"New Embeded Channel",
+            "description":"video s uv",
             "includeWatermark":false,
             "commentsAllowed":true,
             "createdDate":1565772211229,
             "active":true,
-            "stateMachine":{
-               "raw":{
+            "stateMachine":{  
+               "raw":{  
                   "kind":"StateMachine",
                   "id":1
                }
             }
          },
-         "viewCount":0,
+         "viewCount":6,
          "likeCount":0,
          "channelName":"EmbededChannel",
-         "playbackSources":[
+         "playbackSources":[  
 
          ]
       },
-      {
+      {  
          "id":"732ffc2f-03f7-455f-b0d8-fac1d432e370",
          "storageId":"732ffc2f-03f7-455f-b0d8-fac1d432e370",
          "channelId":"5947c2b0-227e-42e9-8285-ebfb302acdba",
@@ -95,38 +250,39 @@
          "featured":false,
          "requestFeatured":false,
          "active":true,
-         "poster":{
+         "poster":{  
             "lastModified":0,
             "size":0,
             "url":"/gs/reveal-video-dev-dev-mavenwave-com-webassets/videos/encoded/0a64017e-bda1-4c05-b3c4-c33ce486d549_/thumbnail-0_0.png_serve",
             "servingUrl":"https://lh3.googleusercontent.com/eD3mldPJPSFf63PPiubYx5kFYL_49k1gFVhcVMCHeVeI738JSDLKEsOyapVMnC8Hk1Sire0bYYzngywPN6snxNc1u1lY\u003ds300"
          },
-         "metaData":[
+         "metaData":[  
 
          ],
-         "channel":{
+         "channel":{  
             "channelId":"5947c2b0-227e-42e9-8285-ebfb302acdba",
-            "channelName":"EmbededChannel",
-            "description":"video s",
+            "storageId":"5947c2b0-227e-42e9-8285-ebfb302acdba",
+            "channelName":"New Embeded Channel",
+            "description":"video s uv",
             "includeWatermark":false,
             "commentsAllowed":true,
             "createdDate":1565772211229,
             "active":true,
-            "stateMachine":{
-               "raw":{
+            "stateMachine":{  
+               "raw":{  
                   "kind":"StateMachine",
                   "id":1
                }
             }
          },
-         "viewCount":0,
+         "viewCount":5,
          "likeCount":0,
          "channelName":"EmbededChannel",
-         "playbackSources":[
+         "playbackSources":[  
 
          ]
       },
-      {
+      {  
          "id":"8f2cbc96-a9eb-417e-bcc0-b4542e6b018e",
          "storageId":"8f2cbc96-a9eb-417e-bcc0-b4542e6b018e",
          "channelId":"5947c2b0-227e-42e9-8285-ebfb302acdba",
@@ -141,39 +297,40 @@
          "featured":false,
          "requestFeatured":false,
          "active":true,
-         "poster":{
+         "poster":{  
             "lastModified":0,
             "size":0,
             "url":"/gs/reveal-video-dev-dev-mavenwave-com-webassets/poster/8f2cbc96-a9eb-417e-bcc0-b4542e6b018e_1565772295192.jpeg",
             "servingUrl":"https://lh3.googleusercontent.com/-3RQALkcCePKq_sq9AIeUOwrQEXsUzGu6DGj2uco_ckVV7BYSvMnCiRFR51l8oeGuVvEqFrj-ncHfpKPk8YMqb2sHYuquw\u003ds300"
          },
-         "metaData":[
+         "metaData":[  
 
          ],
-         "channel":{
+         "channel":{  
             "channelId":"5947c2b0-227e-42e9-8285-ebfb302acdba",
-            "channelName":"EmbededChannel",
-            "description":"video s",
+            "storageId":"5947c2b0-227e-42e9-8285-ebfb302acdba",
+            "channelName":"New Embeded Channel",
+            "description":"video s uv",
             "includeWatermark":false,
             "commentsAllowed":true,
             "createdDate":1565772211229,
             "active":true,
-            "stateMachine":{
-               "raw":{
+            "stateMachine":{  
+               "raw":{  
                   "kind":"StateMachine",
                   "id":1
                }
             }
          },
-         "viewCount":0,
+         "viewCount":5,
          "likeCount":0,
          "channelName":"EmbededChannel",
-         "playbackSources":[
+         "playbackSources":[  
 
          ]
       }
    ],
-   "totalCount":4,
+   "totalCount":7,
    "accessToken":"",
    "offset":0
 }
